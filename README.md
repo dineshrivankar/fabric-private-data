@@ -8,10 +8,10 @@ For exploration, take a VM with 16GB and 4 vCPU.
 
 **# Step 1**
 
-Clone the git repository on all the VM as below.
+Clone the git repository on VM as below.
 
 ```bash
-    https://github.com/dineshrivankar/fabric-private-data.git
+    git clone https://github.com/dineshrivankar/fabric-private-data.git
 ```
 
 **# Step 2**
